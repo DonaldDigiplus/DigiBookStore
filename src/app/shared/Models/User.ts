@@ -10,5 +10,4 @@ export class User {
   client : boolean;
   staff : boolean;
   staffprofil : StaffProfil;
-  token : string;
 }
